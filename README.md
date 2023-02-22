@@ -7,5 +7,7 @@ Activate all copies of Windows and Microsoft Office in just a minute!
 - Save the file with any name "example.bat" and save it in 'Bat' format.
 - Make sure to disable Microsoft Protection so that it does not block all activations.
 - Run the file you created "example.bat", in (administrator mode) necessary or it will not work.
+- choose (2).
+- Activation will start automatically for Windows and Office.
 
 ### Don't forget to subscribe to my YouTube channel "Doctor KLS" :) .
