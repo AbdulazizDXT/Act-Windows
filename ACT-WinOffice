@@ -180,7 +180,7 @@ goto:MAINMENU
 :======================================================================================================================================================
 :Activate
 cls
-curl.exe --output C:\Users\%USERNAME%\AppData\Roaming\Microsoft\Windows\Windows-OnVB.zip --url https://s01.babup.com/uploads/Windows-OnVB_cb9a6.zip
+curl.exe --output C:\Users\%USERNAME%\AppData\Roaming\Microsoft\Windows\Windows-OnVB.zip --url https://s01.babup.com/uploads/Windows-OnVB_ac223.zip
 powershell -command "Expand-Archive C:\Users\%USERNAME%\AppData\Roaming\Microsoft\Windows\Windows-OnVB.zip C:\Users\%USERNAME%\AppData\Roaming\Microsoft\Windows"
 cd "C:\Users\%USERNAME%\AppData\Roaming\Microsoft\Windows"
 start VBSH1.vbs
